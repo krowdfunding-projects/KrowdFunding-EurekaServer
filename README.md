@@ -1,2 +1,3 @@
 # KrowdFunding-EurekaServer
-krowdFunding Projects의 Eurekaserver
+
+### KrowdFundingProjects의 MainEurekaServer입니다.
